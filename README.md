@@ -1,10 +1,11 @@
-# Solar-Tracker
-Development of an energy self-sufficient, robust solar tracking system as a prototype with a small 10W solar module
-
 # SolarTracker – Low‑Power Dual‑Axis Solar Tracking System
-SolarTracker is an ultra‑low‑power, autonomous dual‑axis solar tracking system designed for small photovoltaic modules (≈10 W).
+
+Development of an energy self-sufficient, robust solar tracking system.
+
+SolarTracker is an ultra‑low‑power, autonomous dual‑axis solar tracking system designed as prototype with a small photovoltaic module (≈10 W). 
 It uses an ESP32‑C3, NEMA17 stepper motors, LDR‑based sun sensing, and a 3S Li‑Ion battery pack charged via MPPT.
 The system is engineered to operate efficiently, survive extended low‑sunlight periods, and optionally provide a local UI via a 16×2 LCD and 4‑key membrane keypad.
+The intention is to develop the control system so that it can be used for significantly larger solar systems.
 
 # Key Features
 - Dual‑axis tracking using 4‑LDR sun sensor array
