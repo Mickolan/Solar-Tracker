@@ -1,4 +1,4 @@
-# SolarTracker – Low‑Power Dual‑Axis Solar Tracking System
+# SolarTracker – Low‑Power Dual‑Axis Solar Tracking System 
 
 Development of an energy self-sufficient, robust solar tracking system.
 
